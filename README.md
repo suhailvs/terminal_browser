@@ -30,27 +30,27 @@ the content.
 1. Clone the repository:
 
 ```
-git clone https://github.com/tuxcanfly/litter.git
+git clone https://github.com/suhailvs/terminal_browser
 ```
 
 2. Navigate to the project directory:
 
 ```
-cd litter
+cd terminal_browser
 ```
 
 3. Install the required dependencies:
 
 ```
-pip install requests urwid readability-lxml beautifulsoup4
+pip install -r requirements.txt
 ```
 
 ## Usage:
 
-Simply run the `litter.py` script:
+Simply run the `main.py` script:
 
 ```
-python litter.py
+python main.py
 ```
 
 Upon launch, the default starting page is "https://example.com". You can

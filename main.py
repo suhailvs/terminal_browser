@@ -2,7 +2,6 @@ import re
 import json
 import requests
 import threading
-import pyperclip
 import urwid
 import urwid_readline
 
